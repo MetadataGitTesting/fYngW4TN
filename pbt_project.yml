@@ -1,0 +1,50 @@
+name: kasey.mitchell
+description: Ameliorated
+version: 0.0.1
+author: gomu7lcr.qb7awhum@cbkdirbo.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: kaseymitchell
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2025-02-15 23:16:01'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-02-15 23:16:01'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlOrchestratorPipelines: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-02-15T23:16:01.992975Z'
+  name: plibMaven
+  version: 8.9.0-SNAPSHOT
+  id: '1460980015'
+  createdAt: '2025-02-15T23:16:01.992975Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
